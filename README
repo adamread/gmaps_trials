@@ -1,0 +1,6 @@
+This is a simple project for trying out the google maps API.
+
+The first iteration will allow the user to enter an address and recieve a map
+all of the restaurants within 2 km marked on it.
+
+The entry file is maps_trial.html.
